@@ -7,6 +7,12 @@
 **Thesis (or whatever):**
 A cyber security industry specific analysis of jobs, trends regarding them, predictions and patterns I'm hoping to find.
 
+**Setup**
+
+- Set up a virtual environment to manage project dependencies:
+   `python -m venv env
+   source env/bin/activate  # For Windows(sigh.....): env\Scripts\activate`
+
 Tools needed: `pip install requests beautifulsoup4 scrapy pandas numpy scikit-learn matplotlib seaborn jupyter`
 
 #### Goals:
