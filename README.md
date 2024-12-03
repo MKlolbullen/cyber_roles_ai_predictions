@@ -1,16 +1,21 @@
 # cyber_roles_ai_predictions
+
 ## A cyber security industry specific analysis of jobs, trends regarding them, predictions and patterns I'm hoping to find.
+
 ### Project Overview
+
 **Thesis (or whatever):**
 A cyber security industry specific analysis of jobs, trends regarding them, predictions and patterns I'm hoping to find.
 
-### Goals:
+#### Goals:
 
 1. **Data Collection:**
+   
    1.1 Scrape current job postings from cybersecurity companies and job boards (linkedin and similar places, including the company websites any perhaps recruitment firms, although I think that would duplicate data and muddy things up etc).
    1.2 Retrieve historical job posting data using the Wayback Machine API (for pattern and trend analysis).
 
 2. **Data Processing:**
+   
    2.1 Clean and preprocess the collected data.
    2.2 Normalize job titles and extract relevant features.
    2.2.1 Gather keywords from tools, skills, experience (which is hard to gather other than official data) and certifications.
@@ -18,6 +23,7 @@ A cyber security industry specific analysis of jobs, trends regarding them, pred
    2.2.3 The close to impossible one, the human factor...
 
 3. **Data Analysis:**
+   
    3.1 Analyze the frequency of job positions and much more will be added along this entire post...
    3.2 Calculate the average lifespan of job postings. So are the companies getting;
    3.2.1 X amount of applications.
@@ -26,13 +32,14 @@ A cyber security industry specific analysis of jobs, trends regarding them, pred
    3.2.4 Correlate hiring trends with company size, and a lot of other factors.
 
 
-4. **Machine Learning:**
+5. **Machine Learning:**
 
    4.1 Build predictive models to identify patterns in hiring trends.
    4.2 Choosing models best suited for different tasks.
+   4.1 Playing around with models and data, asking different questions as I go along a hopefully gain some interesting insights.
 
 
 
-5. **Data Visualization:**
+6. **Data Visualization:**
    5.1 Using tools like pandas, matplotlib among others, use them to - **Create visual representations of your findings using graphs and charts.**
 
