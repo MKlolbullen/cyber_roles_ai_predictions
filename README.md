@@ -7,7 +7,8 @@
 **Thesis (or whatever):**
 A cyber security industry specific analysis of jobs, trends regarding them, predictions and patterns I'm hoping to find.
 
-Tools needed: `pip install requests beautifulsoup4 scrapy pandas numpy scikit-learn matplotlib seaborn jupyter
+Tools needed: `pip install requests beautifulsoup4 scrapy pandas numpy scikit-learn matplotlib seaborn jupyter`
+
 #### Goals:
 
 1. **Data Collection:**
